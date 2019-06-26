@@ -1,0 +1,14 @@
+colorscheme desert
+syntax on
+set nocompatible
+set nu
+set ic
+set hls
+set bs=2
+set ls=2
+set smartindent
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set scrolloff=3
+set title
